@@ -1,2 +1,3 @@
 testgit
 good day.
+learn how to use git
